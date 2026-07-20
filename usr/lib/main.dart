@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:social_chat/screens/main_screen.dart';
+import 'screens/main_screen.dart';
 
 void main() {
   runApp(const SocialChatApp());
